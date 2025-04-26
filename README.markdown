@@ -4,7 +4,7 @@
 
 > Este é um sistema web completo desenvolvido em **React**, **Node.js** e **MySQL** para gerenciar produtos em estoque. O projeto implementa operações CRUD (Create, Read, Update, Delete) e segue boas práticas de desenvolvimento.
 
-O nome do aluno está visível no rodapé da aplicação: **[Seu Nome]**.
+O nome do aluno está visível no rodapé da aplicação: **João Victor Balvedi**.
 
 ## 🌟 Visão Geral
 
@@ -101,5 +101,3 @@ Você será redirecionado para a tela inicial do sistema, onde poderá:
 ## 👤 Autor
 
 Desenvolvido por João Victor Balvedi como parte de um trabalho acadêmico.
-
-- **GitHub:** [João]([https://github.com/seu-usuario](https://github.com/JoaoVictorBalvedi/Atividade-1-Expc.git))
