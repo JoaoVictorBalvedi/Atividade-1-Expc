@@ -83,7 +83,7 @@ Antes de configurar o sistema, certifique-se de ter instalado:
 
 1. Abra o MySQL Workbench ou outra ferramenta de gerenciamento.
 2. Execute o script SQL fornecido no diretório `/database` para criar o banco de dados e tabelas.
-3. Certifique-se de que o banco de dados esteja configurado corretly e acessível.
+3. Certifique-se de que o banco de dados esteja configurado corretamente e acessível.
 
 ## ▶️ Execução do Sistema
 
@@ -98,24 +98,8 @@ Você será redirecionado para a tela inicial do sistema, onde poderá:
 - Editar ou excluir produtos existentes.
 - Visualizar detalhes de um produto específico.
 
-## 🤝 Contribuição
-
-Se desejar contribuir para este projeto, siga estas etapas:
-
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature:
-   ```bash
-   git checkout -b feature/nova-funcionalidade
-   ```
-3. Envie suas alterações:
-   ```bash
-   git push origin feature/nova-funcionalidade
-   ```
-4. Abra um pull request descrevendo suas alterações.
-
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome] como parte de um trabalho acadêmico.
+Desenvolvido por João Victor Balvedi como parte de um trabalho acadêmico.
 
-- **GitHub:** [Seu Usuário](https://github.com/seu-usuario)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- **GitHub:** [João]([https://github.com/seu-usuario](https://github.com/JoaoVictorBalvedi/Atividade-1-Expc.git))
