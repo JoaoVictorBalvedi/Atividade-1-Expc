@@ -6,20 +6,6 @@
 
 O nome do aluno está visível no rodapé da aplicação: **[Seu Nome]**.
 
-## 📋 Índice
-
-1. [Visão Geral](#visão-geral)
-2. [Funcionalidades](#funcionalidades)
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4. [Pré-requisitos](#pré-requisitos)
-5. [Configuração do Projeto](#configuração-do-projeto)
-   - [Backend](#backend)
-   - [Frontend](#frontend)
-   - [Banco de Dados](#banco-de-dados)
-6. [Execução do Sistema](#execução-do-sistema)
-7. [Contribuição](#contribuição)
-8. [Autor](#autor)
-
 ## 🌟 Visão Geral
 
 Este sistema permite a gestão de produtos em estoque, com funcionalidades para listar, cadastrar, editar e excluir itens. Ele foi desenvolvido como parte de um trabalho acadêmico e atende aos requisitos técnicos descritos na descrição do projeto.
